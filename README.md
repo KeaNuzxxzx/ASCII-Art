@@ -5,11 +5,11 @@ A tool can transform image to ASCII Art
     ascii [options] <inputfile> [<outputfile>]
 
 # Options:
-    -h --help         how to use?
-    -o                 asd
-    --output=FILE      output [default: ascii.txt]
-    --width=W          image width [default: 80]
-    --height=H         image height [default: 80]
+    -h --help          Show help
+    -o                 Output with a filename
+    --output=FILE      Output default file[default: ascii.txt]
+    --width=W          Image's width [default: 80]
+    --height=H         Image's height [default: 80]
 
 # Example:
     ascii ascii_dora.png
