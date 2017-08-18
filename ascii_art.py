@@ -9,6 +9,9 @@ Options:
     --width=W          image width [default: 80]
     --height=H         image height [default: 80]
 
+Example:
+    ascii ascii_dora.png
+    ascii -o ascii_dora.png output.txt
 """
 
 from PIL import Image
