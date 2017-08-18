@@ -13,3 +13,4 @@ A tool can transform image to ASCII Art
 
 # Example:
     ascii ascii_dora.png
+    ascii -o ascii_dora.png output.txt
