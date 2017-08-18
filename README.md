@@ -2,7 +2,7 @@
 A tool can transform image to ASCII Art
 
 # Usage:
-    ascii [options] <inputfile> [<outputfile>]
+    ascii [options] \<inputfile\> [\<outputfile\>]
 
 # Options:
     -h --help          Show help
